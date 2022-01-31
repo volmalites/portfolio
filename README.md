@@ -3,7 +3,6 @@ Portfolio of Bjorn Lottering
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
