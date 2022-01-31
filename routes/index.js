@@ -1,6 +1,13 @@
+/**
+ * 
+ * Publicly available paths for the domain on which the site will be hosted
+ * Error handling for HTTP errors
+ *
+ **/
+
 const express = require('express');
 const router = express.Router();
-const { projects } = require('../data.json');
+const { projects } = require('../data.json'); // This file contains all projects to be showcased on this site
 
 router.get('/', (req, res) => {
   res.render('index', { projects });

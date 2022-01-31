@@ -362,3 +362,33 @@ nav a span {
     max-width: 1200px;
   }
 }
+
+/*
+  Custom styles
+*/
+
+.cell > a > img.thumbnail:hover {
+  transition: .4s ease-out;
+  overflow: hidden;
+}
+
+.cell > a > img.thumbnail:hover {
+  transform: scale(1.15);
+  box-shadow: 0 12px 16px -6px black;
+}
+
+.wrapper, article.portfolio-intro {
+  background: #555D50;
+}
+
+article.portfolio-intro > h1, article.portfolio-intro > p {
+  color: white;
+}
+
+div.wrapper nav a {
+  color: white;
+}
+
+article > nav {
+  background: #555D50;
+}
