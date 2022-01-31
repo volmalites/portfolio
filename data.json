@@ -1,0 +1,125 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random quote generator",
+      "description": "A webpage that showcases quotes and their origin at random with a random background color as well.",
+      "technologies": [
+        "Javascript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "https://volmalites.github.io/random-quote-generator/",
+      "github_link": "https://github.com/volmalites/random-quote-generator",
+      "image_urls": [
+        "../static/img/random-quote-generator/random-quote-generator-1.PNG",
+        "../static/img/random-quote-generator/random-quote-generator-2.PNG",
+        "../static/img/random-quote-generator/random-quote-generator-3.PNG"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Data pagination and filtering",
+      "description": "A webpage that seperates a list of elements being displayed into groups of nine list items per page, paginating each page according to the number of list items inside of an element.",
+      "technologies": [
+        "Javascript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "https://volmalites.github.io/data-pagination-and-filtering/",
+      "github_link": "https://github.com/volmalites/data-pagination-and-filtering",
+      "image_urls": [
+        "../static/img/data-pagination-and-filtering/data-pagination-and-filtering-1.PNG",
+        "../static/img/data-pagination-and-filtering/data-pagination-and-filtering-2.PNG",
+        "../static/img/data-pagination-and-filtering/data-pagination-and-filtering-3.PNG"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "An interactive and responsive HTML form used for subscribing to a service, in this case a full stack developers conference. The form has numerous checks in place to validate the information being submitted a user. It also depends on the Luhn algorithm when validating a users credit card information.",
+      "technologies": [
+        "Javascript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "https://volmalites.github.io/interactive-form/",
+      "github_link": "https://github.com/volmalites/interactive-form",
+      "image_urls": [
+        "../static/img/interactive-form/interactive-form-1.PNG",
+        "../static/img/interactive-form/interactive-form-2.PNG",
+        "../static/img/interactive-form/interactive-form-3.PNG"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Game Show App",
+      "description": "A word guessing game. You have five lives and the background color will change relevant to how many lives you have left, gradually becoming a deeper shade of red.",
+      "technologies": [
+        "Javascript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "https://volmalites.github.io/game-show-app/",
+      "github_link": "https://github.com/volmalites/game-show-app",
+      "image_urls": [
+        "../static/img/game-show-app/game-show-app-1.PNG",
+        "../static/img/game-show-app/game-show-app-2.PNG",
+        "../static/img/game-show-app/game-show-app-3.PNG"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Random User API",
+      "description": "A web page that makes an AJAX request to a public API hosted at 'randomuser.me'. It then showcases a total of twelve users from this random persons API and has a search function to filter through the users displayed on the page.",
+      "technologies": [
+        "Javascript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "https://volmalites.github.io/random-user-api/",
+      "github_link": "https://github.com/volmalites/random-user-api",
+      "image_urls": [
+        "../static/img/random-user-api/random-user-api-1.PNG",
+        "../static/img/random-user-api/random-user-api-2.PNG",
+        "../static/img/random-user-api/random-user-api-3.PNG"
+      ]
+    },
+    {
+      "id": 5,
+      "project_name": "Octonet Website",
+      "description": "A website I created with the Vue framework and Webpack. This website is for my side project / hobby that I have been working on. The landing page of the website showcases a 3D model of the earth rendered with WebGL using the ThreeJS framework. The interactive chat utilizes Websocket technology achieved with the Socket.io library.",
+      "technologies": [
+        "Javascript",
+        "CSS",
+        "HTML",
+        "Vue",
+        "Webpack",
+        "Three.js",
+        "Socket.io"
+      ],
+      "live_link": "https://www.octonet.co.za",
+      "github_link": "https://github.com/volmalites/octonet",
+      "image_urls": [
+        "../static/img/octonet/octonet-1.PNG",
+        "../static/img/octonet/octonet-2.PNG",
+        "../static/img/octonet/octonet-3.PNG"
+      ]
+    },
+    {
+      "id": 6,
+      "project_name": "VIM",
+      "description": "My personal vimrc config, as vanilla as possible, used with tmux.",
+      "technologies": [
+        "VIM"
+      ],
+      "live_link": "https://github.com/volmalites/vimrc/blob/main/.vimrc",
+      "github_link": "https://github.com/volmalites/vimrc",
+      "image_urls": [
+        "../static/img/vim/vim-1.PNG",
+        "../static/img/vim/vim-2.PNG",
+        "../static/img/vim/vim-3.PNG"
+      ]
+    }
+  ]
+}
