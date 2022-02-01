@@ -1,5 +1,6 @@
 # portfolio
 Portfolio of Bjorn Lottering
+[https://bjornlottering.online](https://bjornlottering.online/)
 
 ## Build Setup
 
@@ -18,4 +19,4 @@ npm start
  
 ## Authors
 
-* **Bjorn Lottering** - [Volmalites](https://github.com/volmalites)
+* **Bjorn Lottering** - [Bjorn Lottering](https://bjornlottering.online/) [Github](https://github.com/volmalites)
