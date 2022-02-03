@@ -367,14 +367,15 @@ nav a span {
   Custom styles
 */
 
-.cell > a > img.thumbnail:hover {
+.projects-box > .cell:hover {
   transition: .4s ease-out;
   overflow: hidden;
 }
 
-.cell > a > img.thumbnail:hover {
+.projects-box > .cell:hover {
   transform: scale(1.15);
   box-shadow: 0 12px 16px -6px black;
+  padding: 5px;
 }
 
 .wrapper, article.portfolio-intro {
