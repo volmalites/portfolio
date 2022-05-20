@@ -108,8 +108,8 @@
     },
     {
       "id": 6,
-      "project_name": "VIM",
-      "description": "My personal vimrc config, as vanilla as possible, used with tmux.",
+      "project_name": "VIM/NVIM",
+      "description": "My personal vimrc config and lua config files, as vanilla as possible, used with tmux.",
       "technologies": [
         "VIM"
       ],
