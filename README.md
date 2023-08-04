@@ -3,7 +3,7 @@ Portfolio of Bjorn Lottering
 
 [https://bjornlottering.online](https://bjornlottering.online/)
 
-I don't use this portfolio anymore, I have replaced it with a blog I build with [Astro](https://github.com/withastro)
+I don't use this portfolio anymore, I have replaced it with a blog I built with [Astro](https://github.com/withastro)
 
 
 ## Build Setup
