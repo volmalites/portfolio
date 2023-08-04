@@ -1,6 +1,6 @@
 # portfolio
 Portfolio of Bjorn Lottering
-I don't use this portfolio anymore, I have replaced it with a blog I build with [https://github.com/withastro](Astro)
+I don't use this portfolio anymore, I have replaced it with a blog I build with [Astro](https://github.com/withastro)
 [https://bjornlottering.online](https://bjornlottering.online/)
 
 ## Build Setup
